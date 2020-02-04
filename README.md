@@ -1,6 +1,6 @@
 # Train_Track_Repair_GGJ2020
 
-![GitHub license](https://img.shields.io/github/license/oussamabonnor1/Train_Track_Repair_GGJ2020.svg)
+![GitHub license](https://img.shields.io/github/license/open-minds/Train_Track_Repair_GGJ2020.svg)
 ![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
 
 Train Track Repair is a game made during the [Global Game Jam 2020](https://globalgamejam.org/2020/) under the theme "Repair".
