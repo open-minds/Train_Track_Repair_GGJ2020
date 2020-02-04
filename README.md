@@ -1,7 +1,7 @@
 # Train_Track_Repair_GGJ2020
 
 ![GitHub license](https://img.shields.io/github/license/oussamabonnor1/Train_Track_Repair_GGJ2020.svg)
-![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
+![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
 
 Train Track Repair is a game made during the [Global Game Jam 2020](https://globalgamejam.org/2020/) under the theme "Repair".
 
@@ -30,6 +30,3 @@ This project was made by:
 
 ## Contribution:
 Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
-
-## Team:
-[Jetlighters](https://github.com/JetLightStudio) having fun.
